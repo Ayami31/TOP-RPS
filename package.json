@@ -1,0 +1,24 @@
+{
+  "name": "top-rps",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors project",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayami31/TOP-RPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ayami31/TOP-RPS/issues"
+  },
+  "homepage": "https://github.com/Ayami31/TOP-RPS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
